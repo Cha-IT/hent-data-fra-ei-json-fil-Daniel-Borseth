@@ -1,0 +1,52 @@
+[
+    {
+        "name": "Smoke on the Water",
+        "artist": "Deep Purple",
+        "bilde": "Smoke on the Water.jfif",
+        "sound": "/assets/Audio/Smoke On The Water (2024 Remastered).mp3",
+        "year": 1972,
+        "type": "Rock",
+        "nation": "UK",
+        "beskrivelse": "A classic rock song known for its iconic guitar riff."
+    },
+    {
+        "name": "Believer",
+        "artist": "Imagine Dragons",
+        "bilde": "Believer.jfif",
+        "sound": "/assets/Audio/Imagine Dragons - Believer (Lyrics).mp3",
+        "year": 2017,
+        "type": "Pop Rock",
+        "nation": "USA",
+        "beskrivelse": "A powerful song with strong vocals and a driving beat."
+    },
+    {
+        "name": "Stairway to Heaven",
+        "artist": "Led Zeppelin",
+        "bilde": "Stairway to Heaven.jfif",
+        "sound": "/assets/Audio/Led Zeppelin - Stairway To Heaven (Official Audio).mp3",
+        "year": 1971,
+        "type": "Rock",
+        "nation": "UK",
+        "beskrivelse": "An epic rock ballad with a progressive build-up."
+    },
+    {
+        "name": "Locked out of Heaven",
+        "artist": "Bruno Mars",
+        "bilde": "Locked out of Heaven.jfif",
+        "sound": "/assets/Audio/Bruno Mars - Locked Out Of Heaven.mp3",
+        "year": 2012,
+        "type": "Pop",
+        "nation": "USA",
+        "beskrivelse": "A catchy pop song with reggae and rock influences."
+    },
+    {
+        "name": "Bohemian Rhapsody",
+        "artist": "Queen",
+        "bilde": "Bohemian Rahpsody.jfif",
+        "sound": "/assets/Audio/Queen – Bohemian Rhapsody (Lyrics).mp3",
+        "year": 1975,
+        "type": "Rock",
+        "nation": "UK",
+        "beskrivelse": "A groundbreaking rock opera with multiple musical sections."
+    }
+]
